@@ -1,0 +1,13 @@
+Package: rgestaoudpb
+Type: OpenCPU Application
+Title: Aplicação Markdown para apresentar indicadores de Apropriação de Horas
+Version: 0.1
+Date: 2016-08-31
+Author: Rodrigo Almeida <rodrigo.almeida@dataprev.gov.br>
+Maintainer: Rodrigo Almeida <rodrigo.almeida@dataprev.gov.br>
+Description: OpenCPU App for markdown package
+License: Apache2
+Depends:
+    knitr
+Suggests:
+    opencpu (>= 1.0.1)
