@@ -1,12 +1,12 @@
-\name{hello}
-\alias{hello}
-\title{Hello, World!}
+\name{rmdtext}
+\alias{rmdtext}
+\title{Markdown da Apropriacao de Horas!}
 \usage{
-hello()
+rmdtext(text)
 }
 \description{
-Prints 'Hello, world!'.
+Imprime apropriacao
 }
 \examples{
-hello()
+rmdtext(index.html)
 }

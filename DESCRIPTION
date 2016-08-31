@@ -1,5 +1,5 @@
 Package: rgestaoudpb
-Type: OpenCPU Application
+Type: Package
 Title: Aplicação Markdown para apresentar indicadores de Apropriação de Horas
 Version: 0.1
 Date: 2016-08-31
