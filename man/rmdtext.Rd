@@ -8,5 +8,5 @@ rmdtext(text)
 Imprime apropriacao
 }
 \examples{
-rmdtext(index.html)
+rmdtext("param")
 }
